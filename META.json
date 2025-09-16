@@ -1,0 +1,63 @@
+{
+  "category": "miscellaneous",
+  "created_date": "2025-09-15T22:48:58.484751",
+  "default_ports": [
+    80,
+    443
+  ],
+  "dependencies": [
+    "snmp",
+    "snmp-mibs-downloader"
+  ],
+  "description": "observium is a free and open-source network monitoring platform. Observium provides autodiscovering network monitoring platform",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/miscellaneous/observium",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/miscellaneous/observium",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:58.484779",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "observium",
+  "repository_url": "https://github.com/howtomgr/observium",
+  "spec_version": "2.0",
+  "subcategory": "miscellaneous",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "miscellaneous",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "observium Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/miscellaneous/observium"
+}
